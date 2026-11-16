@@ -27,7 +27,7 @@
   </defs>
   <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
   <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
-  <path class="ecg" d="M0 232 H250 l14 -8 l12 8 h40 l10 14 l16 -92 l18 118 l12 -40 h44 l18 -16 l22 16 H640 l14 -8 l12 8 h40 l10 14 l16 -92 l18 118 l12 -40 h44 l18 -16 l22 16 H1200"/>
+  <path class="ecg" d="M0 268 H250 l14 -6 l12 6 h40 l10 10 l16 -58 l18 76 l12 -28 h44 l18 -12 l22 12 H640 l14 -6 l12 6 h40 l10 10 l16 -58 l18 76 l12 -28 h44 l18 -12 l22 12 H1200"/>
   <circle class="dot" cx="76" cy="74" r="6"/>
   <text x="94" y="80" class="chip">BIOMEDICAL ENGINEERING  ·  MACHINE LEARNING  ·  CLINICAL AI</text>
   <text x="70" y="150" class="name">Hariharan S</text>
