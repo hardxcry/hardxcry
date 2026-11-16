@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Hariharan S. Biomedical engineering and AI for healthcare.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#0f2a3d"/>
+      <stop offset="1" stop-color="#0e7490"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#22d3ee"/>
+      <stop offset="0.85" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <style>
+      .name { font: 700 58px 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: #f8fafc; letter-spacing: -1px; }
+      .tag  { font: 400 23px 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: #cbd5e1; }
+      .chip { font: 600 14px 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: #e2e8f0; }
+      .ecg  { fill: none; stroke: url(#pulse); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round;
+              stroke-dasharray: 2400; stroke-dashoffset: 2400; animation: draw 5s ease-in-out infinite; }
+      .dot  { fill: #5eead4; animation: blink 1.6s ease-in-out infinite; }
+      @keyframes draw { 0% { stroke-dashoffset: 2400; } 55% { stroke-dashoffset: 0; } 100% { stroke-dashoffset: -2400; } }
+      @keyframes blink { 0%, 100% { opacity: .25; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <path class="ecg" d="M0 232 H250 l14 -8 l12 8 h40 l10 14 l16 -92 l18 118 l12 -40 h44 l18 -16 l22 16 H640 l14 -8 l12 8 h40 l10 14 l16 -92 l18 118 l12 -40 h44 l18 -16 l22 16 H1200"/>
+  <circle class="dot" cx="76" cy="74" r="6"/>
+  <text x="94" y="80" class="chip">BIOMEDICAL ENGINEERING  ·  MACHINE LEARNING  ·  CLINICAL AI</text>
+  <text x="70" y="150" class="name">Hariharan S</text>
+  <text x="72" y="190" class="tag">I build AI for healthcare, then measure it the way medicine does.</text>
+</svg>
