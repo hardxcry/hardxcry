@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Hariharan S, hardxcry. AI engineering, cybersecurity, automobiles, healthcare tech." width="100%">
+  <img src="assets/banner.svg" alt="Hariharan S, @hardxcry. AI engineering, cybersecurity, automobiles, healthcare. Animated neural network." width="100%">
 </p>
 
 <p align="center">
   <a href="https://github.com/hardxcry">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=720&lines=AI+Engineering+Geek+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Car+Guy+%F0%9F%8F%8E%EF%B8%8F;Building+AI+for+Healthcare+%F0%9F%A9%BA;I+build+it%2C+break+it%2C+then+measure+it+%F0%9F%93%8A" alt="Typing animation: AI engineering geek, cybersecurity enthusiast, car guy, building AI for healthcare">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=720&lines=AI+Engineering+Geek+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Car+Guy+%F0%9F%8F%8E%EF%B8%8F;Building+AI+for+Healthcare+%F0%9F%A9%BA;I+build+it%2C+break+it%2C+then+measure+it+%F0%9F%93%8A" alt="Typing animation: AI engineering geek, cybersecurity enthusiast, car guy, building AI for healthcare">
   </a>
 </p>
 
