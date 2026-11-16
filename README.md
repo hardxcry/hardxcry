@@ -42,31 +42,28 @@
 ## 🔥 Featured projects
 
 <p align="center">
-  <a href="https://github.com/hardxcry/pilllens-pill-identification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardxcry&repo=pilllens-pill-identification&theme=radical&hide_border=true" alt="PillLens"></a>
-  <a href="https://github.com/hardxcry/cardiorisk-heart-disease-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardxcry&repo=cardiorisk-heart-disease-prediction&theme=tokyonight&hide_border=true" alt="CardioRisk"></a>
+  <a href="https://github.com/hardxcry/pilllens-pill-identification"><img src="assets/card-pilllens.svg" width="49%" alt="PillLens: identify a pill from a phone photo among 4,902 pill types. Top-1 accuracy 20% to 71%."></a>
+  <a href="https://github.com/hardxcry/cardiorisk-heart-disease-prediction"><img src="assets/card-cardiorisk.svg" width="49%" alt="CardioRisk: heart-disease risk prediction validated across 4 hospitals. AUROC 0.903, 0.812 on an unseen hospital."></a>
 </p>
 <p align="center">
-  <a href="https://github.com/hardxcry/trialmatch-clinical-trial-matcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardxcry&repo=trialmatch-clinical-trial-matcher&theme=synthwave&hide_border=true" alt="TrialMatch"></a>
-  <a href="https://github.com/hardxcry/stepsafe-tug-fall-risk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hardxcry&repo=stepsafe-tug-fall-risk&theme=cobalt&hide_border=true" alt="StepSafe"></a>
+  <a href="https://github.com/hardxcry/trialmatch-clinical-trial-matcher"><img src="assets/card-trialmatch.svg" width="49%" alt="TrialMatch: match a patient description to recruiting clinical trials. NDCG@10 0.539 on TREC 2021."></a>
+  <a href="https://github.com/hardxcry/stepsafe-tug-fall-risk"><img src="assets/card-stepsafe.svg" width="49%" alt="StepSafe: time a fall-risk walk test from ordinary video. About 0.5 s error in 2,000 simulated tests."></a>
+</p>
+<p align="center">
+  <a href="https://github.com/hardxcry/crysense-infant-cry-analysis"><img src="assets/card-crysense.svg" width="49%" alt="CrySense: can audio tell why a baby cries? An honest negative result, 0.226 against 0.200 for guessing."></a>
+  <img src="assets/card-surgiphase.svg" width="49%" alt="SurgiPhase: recognise the phases of keyhole surgery from video. Training now, coming soon.">
 </p>
 
-| | Project | What it does | Headline result |
-|---|---|---|---|
-| 💊 | [**PillLens**](https://github.com/hardxcry/pilllens-pill-identification) | Identifies a pill from a phone photo among 4,902 types | Fine-tuned CLIP: top-1 accuracy from 20% to 71% |
-| 🫀 | [**CardioRisk**](https://github.com/hardxcry/cardiorisk-heart-disease-prediction) | Heart-disease risk across 4 hospitals | AUROC 0.903, dropping to 0.812 on an unseen hospital |
-| 🧬 | [**TrialMatch**](https://github.com/hardxcry/trialmatch-clinical-trial-matcher) | Matches patients to recruiting clinical trials | NDCG@10 0.539, beating the standard hybrid recipe |
-| 🚶 | [**StepSafe**](https://github.com/hardxcry/stepsafe-tug-fall-risk) | Times a fall-risk walk test from video | About 0.5 s timing error in 2,000 simulated tests |
-| 👶 | [**CrySense**](https://github.com/hardxcry/crysense-infant-cry-analysis) | Can audio tell why a baby cries? | Honest negative result: barely above guessing |
-| 🔬 | **SurgiPhase** | Surgery phase recognition from video | Training now. Coming soon |
-
-## 📊 GitHub stats
+## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardxcry&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardxcry&layout=compact&theme=radical&hide_border=true" height="165" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hardxcry&theme=radical" width="98%" alt="Profile details and contribution graph">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hardxcry&theme=radical&hide_border=true" alt="GitHub streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardxcry&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution activity graph">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=12,20,2,30" width="100%" alt="">

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="480" height="200" role="img" aria-label="CardioRisk: Heart-disease risk prediction validated across 4 hospitals.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ef4444"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: #fff; }
+      .t { font-size: 30px; font-weight: 800; } .d { font-size: 16px; opacity: .93; }
+      .r { font-size: 15px; font-weight: 700; } .chip { font-size: 13px; font-weight: 700; }
+      .e { font-size: 54px; } .orb { animation: p 6s ease-in-out infinite; transform-origin: 410px 50px; }
+      @keyframes p { 0%,100% { transform: scale(1); opacity: .22; } 50% { transform: scale(1.18); opacity: .34; } }
+    </style>
+  </defs>
+  <rect width="480" height="200" rx="20" fill="url(#g)"/>
+  <circle class="orb" cx="410" cy="50" r="92" fill="#fff" opacity=".22"/>
+  <text x="382" y="70" class="e">🫀</text>
+  <text x="28" y="50" class="t">CardioRisk</text>
+  <text x="28" y="80" class="d">Heart-disease risk prediction</text>
+  <text x="28" y="101" class="d">validated across 4 hospitals.</text>
+  <text x="28" y="134" class="r">▸ AUROC 0.903 → 0.812 unseen</text>
+  <rect x="28" y="150" width="114" height="26" rx="13" fill="#fff" fill-opacity=".22"/><text x="85" y="168" text-anchor="middle" class="chip">scikit-learn</text><rect x="150.39999999999998" y="150" width="73" height="26" rx="13" fill="#fff" fill-opacity=".22"/><text x="187" y="168" text-anchor="middle" class="chip">XGBoost</text><rect x="231.79999999999995" y="150" width="49" height="26" rx="13" fill="#fff" fill-opacity=".22"/><text x="256" y="168" text-anchor="middle" class="chip">SHAP</text>
+</svg>
