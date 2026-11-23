@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="assets/banner.svg" alt="hardxcry. AI engineering, cybersecurity, automobiles, healthcare. Animated neural network." width="100%">
 </p>
 
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## ðŸ› ï¸ Tech stack
+## 🛠️ Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,js,html,css,nodejs,git,github,vscode,powershell&perline=12" alt="Python, PyTorch, scikit-learn, OpenCV, JavaScript, HTML, CSS, Node.js, Git, GitHub, VS Code, PowerShell">
