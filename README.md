@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="hardxcry. AI engineering, cybersecurity, automobiles, healthcare. Animated neural network." width="100%">
+  <img src="assets/hud-banner.svg" alt="hardxcry. AI engineering, cybersecurity, automobiles, healthcare. Animated neural network." width="100%">
 </p>
 
 <p align="center">
