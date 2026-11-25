@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/hardxcry">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=720&lines=AI+Engineering+Geek+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Car+Guy+%F0%9F%8F%8E%EF%B8%8F;Building+AI+for+Healthcare+%F0%9F%A9%BA;I+build+it%2C+break+it%2C+then+measure+it+%F0%9F%93%8A" alt="Typing animation: AI engineering geek, cybersecurity enthusiast, car guy, building AI for healthcare">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=720&lines=AI+Engineering+%F0%9F%A4%96;Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+AI+for+Healthcare+%F0%9F%A9%BA;I+build+it%2C+break+it%2C+then+measure+it+%F0%9F%93%8A" alt="Typing animation: AI engineering, cybersecurity, building AI for healthcare">
   </a>
 </p>
 
